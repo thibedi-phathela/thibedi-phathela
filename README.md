@@ -1,8 +1,10 @@
-- 👋 Hi My name is Thibedi Phathela and welcome to my GitHub space🚀
-- 💡 Passionate about problem solving, creating innovative solutions and building robust applications.
+- 👋 Hello, I'm Thibedi Phathela! Welcome to my GitHub space 🚀
 
-- 💻 I have expertise in various programming languages including Java, Python, and C#.
-- 🌱 Constantly learning and exploring new technologies to expand my skillset and stay up-to-date with the latest industry trends in both frontend and backend development, as well as database management.
+- 💡 I'm passionate about problem-solving, creating innovative solutions, and building robust applications.
+
+- 💻 My expertise lies in various programming languages, including Java, Python, and C#. I enjoy working with these languages to develop efficient and scalable applications.
+
+- 🌱 I'm a lifelong learner and always exploring new technologies to expand my skillset. I strive to stay up-to-date with the latest industry trends in both frontend and backend development, as well as database management.
 
 
 <!---
