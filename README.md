@@ -3,8 +3,7 @@
 
 - 💻 I have expertise in various programming languages including Java, Python, and C#.
 - 🌱 Constantly learning and exploring new technologies to expand my skillset and stay up-to-date with the latest industry trends in both frontend and backend development, as well as database management.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 thibedi-phathela/thibedi-phathela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
